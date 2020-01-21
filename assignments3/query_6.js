@@ -1,0 +1,1 @@
+printjson(db.people.insertOne({sex:"Male",first_name:"Gilbert",last_name:"Habimana",location:{city:"Warsaw",address:{streetname:"Jana",streetnumber:"45"}},weight:"75"}))
